@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amirrezapanahi</title>
+    <link>https://amirrezapanahi.github.io/</link>
+    <description>Recent content on amirrezapanahi</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://amirrezapanahi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://amirrezapanahi.github.io/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirrezapanahi.github.io/description/</guid>
+      <description>Hi, I am Amir Panahi! 4th year CompSci student at the University of St Andrews! [Params.Tree] use = true folderName = &amp;ldquo;my_links&amp;rdquo;
+Note: [&amp;ldquo;ACTIVITY&amp;rdquo;, &amp;ldquo;URL or PATH TO YOUR MARKDOWN FILE&amp;rdquo;] files = [ [&amp;ldquo;CV&amp;rdquo;, &amp;ldquo;https://www.royvince.xyz/&amp;rdquo;], [&amp;ldquo;linked-in&amp;rdquo;, &amp;ldquo;https://www.linkedin.com/in/amir-panahi-26028122a/&amp;rdquo;], [&amp;ldquo;github&amp;rdquo;, &amp;ldquo;https://github.com/amirrezapanahi&amp;rdquo;], ]</description>
+    </item>
+    
+  </channel>
+</rss>
