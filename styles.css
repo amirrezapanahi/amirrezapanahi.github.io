@@ -1,0 +1,86 @@
+* {
+  font-family: monospace;
+  padding: 0.3em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 700px;
+  margin: 3em auto;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 2em;
+  list-style-type: none;
+}
+
+.header a {
+  color: black;
+}
+
+.flex {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+.images {
+  display: flex;
+  align-items: center;
+}
+
+.images img {
+  object-fit: cover;
+  width: 2em;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.tooltip a {
+  color: white;
+}
