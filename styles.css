@@ -46,6 +46,14 @@ a {
   width: 2em;
 }
 
+.book {
+  width: 6em !important;
+}
+
+.domain {
+  border: 0.5px solid black;
+}
+
 .tooltip {
   position: relative;
   display: inline-block;
